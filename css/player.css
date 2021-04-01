@@ -1,0 +1,12 @@
+.black {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 0 15px hotpink;
+          box-shadow: inset 0 0 15px hotpink;
+}
+
+.nopad {
+  padding-left: 0;
+}
+/*# sourceMappingURL=player.css.map */
