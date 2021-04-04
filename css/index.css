@@ -62,8 +62,7 @@
   color: grey;
 }
 
-.navbar .dropdown-menu :hover {
-  text-shadow: hotpink 2px 2px 2px;
+.navbar .dropdown-menu a:hover {
   color: white;
   background-color: black;
 }

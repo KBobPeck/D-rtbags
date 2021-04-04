@@ -50,12 +50,13 @@
     border: 1px solid hotpink;
     a {
       color: grey;
+      &:hover {
+        // text-shadow: hotpink 2px 2px 2px;
+        color: white;
+        background-color: black;
+      }
     }
-    :hover {
-      text-shadow: hotpink 2px 2px 2px;
-      color: white;
-      background-color: black;
-    }
+
     .shown {
       color: white;
       text-shadow: hotpink 2px 2px 2px;
