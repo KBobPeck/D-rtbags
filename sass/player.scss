@@ -7,3 +7,30 @@
 .nopad {
   padding-left: 0;
 }
+
+p {
+  margin-bottom: 0;
+  font-family: "Permanent Marker", cursive;
+}
+
+a {
+  color: white;
+}
+
+.progress {
+  margin-bottom: 7px;
+  background-color: black;
+}
+
+.progress-bar {
+  border-radius: 2px;
+}
+
+.bg-main {
+  background-color: hotpink;
+}
+@media (max-width: 767px) {
+  .skills {
+    display: none;
+  }
+}
